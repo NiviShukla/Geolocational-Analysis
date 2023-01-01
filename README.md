@@ -38,5 +38,6 @@ their liking.
 • Present findings on a map. (Using Folium/Seaborn)
 
 The desired end result of this project is something like this:
-
-
+<p>
+ <img src="https://user-images.githubusercontent.com/52473549/210179896-58788780-d07e-447e-a4a8-7903ed611734.png" height="40%" width="50%"> 
+</p>
