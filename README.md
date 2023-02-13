@@ -1,7 +1,7 @@
 # Geolocational-Analysis
 
 This project involves the use of K-Means Clustering to find the best accommodation for
-students in Hydrabad (or any other city of your choice) by classifying accommodation for
+students in Hyderabad (or any other city of your choice) by classifying accommodation for
 incoming students on the basis of their preferences on amenities, budget and proximity to
 the location. This project is in association with Crio.Do project for Exploratory Analysis of Geolocational Data.
 
